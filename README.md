@@ -60,5 +60,4 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them.
 Push your changes to your fork.
 Create a pull request with a clear description of your changes.
-License
-This project is licensed under the [Sahil Shukla] - see the LICENSE file for details.
+
